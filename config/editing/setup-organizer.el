@@ -43,6 +43,7 @@
 
 (setq org-todo-keywords
       '((sequence
+	 "TODO(t)"
 	 "CANCELLED(c)"
 	 "FEEDBACK(f)"
 	 "BLOCKED(B)"
